@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+html,body{
+	background-image: linear-gradient(rgba(0, 133, 111, 0.4), rgba(255, 77, 124, 0.5)),
+                  url("../images/med.jpg");
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  background-size:cover;
+                 
+
+
+}
+.profbox{
+	max-width: 500px;
+	margin-left: 25%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	background:rgba(211,211,211,0.5);
+}
+footer{
+	background-color:#1e5866;
+	color:#d5d5d5;
+	padding-top: 2rem;
+	position:absolute;
+	width: 100%;
+
+}
+hr.light{
+	border-top:1px solid #d5d5d5;
+	width:75%;
+	margin-top:.8rem;
+	margin-bottom: 1rem;
+}
+h3{
+	text-color:#282e33;
+}
